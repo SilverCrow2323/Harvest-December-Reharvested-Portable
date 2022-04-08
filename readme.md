@@ -1,5 +1,5 @@
 # Harvest December: Reharvested! Portable
-Ports for PSVITA and SWITCH
+Port for PSVITA and SWITCH
 
 I'm working with [takoyaki](https://github.com/takoyaki99) on this awesome Project! 
 
