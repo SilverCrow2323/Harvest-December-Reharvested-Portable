@@ -23,6 +23,6 @@ I appreciate your continued interest in this project!
 
 Autumn's info~
 - https://natirivers.itch.io/harvest-december-remake 
-- https://nitter.net/natirivers)
+- https://nitter.net/natirivers
 
 Happy reading!
