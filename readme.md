@@ -26,3 +26,7 @@ Autumn's info~
 - https://nitter.net/natirivers
 
 Happy reading!
+
+## 📚 Practical Wiki
+
+The [GitHub Wiki](https://github.com/SilverCrow2323/Harvest-December-Reharvested-Portable/wiki) tracks project status, upstream sources, release-specific installation notes and test reporting. The tracked source is in [wiki-source/](wiki-source/); publish reviewed pages with `sh tools/publish_wiki.sh`.
