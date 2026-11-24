@@ -27,6 +27,9 @@ Autumn's info~
 
 Happy reading!
 
-## 📚 Practical Wiki
 
-The [GitHub Wiki](https://github.com/SilverCrow2323/Harvest-December-Reharvested-Portable/wiki) tracks project status, upstream sources, release-specific installation notes and test reporting. The tracked source is in [wiki-source/](wiki-source/); publish reviewed pages with `sh tools/publish_wiki.sh`.
+## Central Ren'Py Vita catalogue
+
+The shared catalogue, compatibility notes and installation/testing documentation are maintained in the [Ren'Py Vita Hub](https://silvercrow2323.github.io/renpy-psvita-ports/). See the [title sheet](https://github.com/SilverCrow2323/renpy-psvita-ports/blob/main/docs/_games/harvest-december-reharvested.md) and [community porting guide](https://github.com/SilverCrow2323/renpy-psvita-ports/blob/main/docs/PORTING-GUIDES.md). The current README describes the Vita port as in progress; do not infer a finished release or install path from repository files alone.
+
+If the public Pages site is not yet enabled, use the [versioned documentation source](https://github.com/SilverCrow2323/renpy-psvita-ports/tree/main/docs).
