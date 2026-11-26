@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "port_id": "harvest-december-reharvested",
+  "title": "Harvest December: Reharvested! Portable",
+  "repository": "https://github.com/SilverCrow2323/Harvest-December-Reharvested-Portable",
+  "platform": "psvita",
+  "engine": "renpy",
+  "status": "in-progress",
+  "original_game_url": "https://natirivers.itch.io/harvest-december-remake",
+  "upstream_repository": "https://github.com/takoyaki99/Harvest-December-Reharvested-Portable",
+  "docs_path": "docs/ports/harvest-december/README.md",
+  "notes": "Vita port is explicitly in progress. Do not infer a title ID, VPK release or game-data path until the project confirms them."
+}
